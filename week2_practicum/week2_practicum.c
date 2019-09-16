@@ -7,6 +7,7 @@ int main()
     int getal2;
     int getal3;
 
+    // om een functie die geen int teruggeeft te gebruiken, moet je die declareren
     float avg(int , int , int );
     printf("Voer drie getallen in. \n");
 
