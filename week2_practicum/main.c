@@ -8,7 +8,7 @@ int main()
 
 
 
-/*
+
     float lengte;
     float massa;
     float BMI;
@@ -21,7 +21,7 @@ int main()
 
     BMI = massa / (lengte * lengte);
     printf("dit is je BMI %f \n" ,BMI );
-*/
+
 
 
 
