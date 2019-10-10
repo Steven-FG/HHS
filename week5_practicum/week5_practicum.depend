@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570637647 source:c:\code\week5_practicum\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570736109 source:c:\code\week5_practicum\main_week5_practicum.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
